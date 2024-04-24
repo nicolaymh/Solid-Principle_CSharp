@@ -1,0 +1,15 @@
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\bin\Debug\net6.0\01-SRP.exe
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\bin\Debug\net6.0\01-SRP.deps.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\bin\Debug\net6.0\01-SRP.runtimeconfig.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\bin\Debug\net6.0\01-SRP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\bin\Debug\net6.0\01-SRP.pdb
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\obj\Debug\net6.0\01-SRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\obj\Debug\net6.0\01-SRP.AssemblyInfoInputs.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\obj\Debug\net6.0\01-SRP.AssemblyInfo.cs
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\obj\Debug\net6.0\01-SRP.csproj.CoreCompileInputs.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\obj\Debug\net6.0\01-SRP.sourcelink.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\obj\Debug\net6.0\01-SRP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\obj\Debug\net6.0\refint\01-SRP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\obj\Debug\net6.0\01-SRP.pdb
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\obj\Debug\net6.0\01-SRP.genruntimeconfig.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\01-SRP\obj\Debug\net6.0\ref\01-SRP.dll
