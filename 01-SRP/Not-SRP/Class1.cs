@@ -20,6 +20,8 @@ namespace _01_SRP.Not_SRP
         public string Name { get; set; }
     }
 
+
+
     // Class to control the view displayed to the user.
     public class ProductBloc
     {
