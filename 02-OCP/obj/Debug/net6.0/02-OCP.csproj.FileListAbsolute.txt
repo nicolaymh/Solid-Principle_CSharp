@@ -1,0 +1,15 @@
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\bin\Debug\net6.0\02-OCP.exe
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\bin\Debug\net6.0\02-OCP.deps.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\bin\Debug\net6.0\02-OCP.runtimeconfig.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\bin\Debug\net6.0\02-OCP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\bin\Debug\net6.0\02-OCP.pdb
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\obj\Debug\net6.0\02-OCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\obj\Debug\net6.0\02-OCP.AssemblyInfoInputs.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\obj\Debug\net6.0\02-OCP.AssemblyInfo.cs
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\obj\Debug\net6.0\02-OCP.csproj.CoreCompileInputs.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\obj\Debug\net6.0\02-OCP.sourcelink.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\obj\Debug\net6.0\02-OCP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\obj\Debug\net6.0\refint\02-OCP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\obj\Debug\net6.0\02-OCP.pdb
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\obj\Debug\net6.0\02-OCP.genruntimeconfig.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\02-OCP\obj\Debug\net6.0\ref\02-OCP.dll
