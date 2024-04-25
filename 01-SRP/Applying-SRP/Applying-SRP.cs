@@ -1,25 +1,23 @@
-﻿using static _01_SRP.Applying_SRP.EmailNotificationService;
+﻿
 
 namespace _01_SRP.Applying_SRP
 {
-
-    /////////////////////////////////////////    
     public interface IProduct
     {
         int Id { get; set; }
         string Name { get; set; }
     }
-    //////////////////////////////////////////
+    //////////////////////////////////////////////////////
 
-    //////////////////////////////////////////
+    //////////////////////////////////////////////////////
     public class Product : IProduct
     {
         public int Id { get; set; }
         public string Name { get; set; }
     }
-    //////////////////////////////////////////
+    //////////////////////////////////////////////////////
 
-    //////////////////////////////////////////
+    //////////////////////////////////////////////////////
     public class ProductService
     {
         public void getProduct(int id)
@@ -31,50 +29,47 @@ namespace _01_SRP.Applying_SRP
         {
             Console.WriteLine($"Saving to the database product: {product.Name} with Id: {product.Id}");
         }
-
     }
-    //////////////////////////////////////////
+    //////////////////////////////////////////////////////    
 
-    //////////////////////////////////////////
+    //////////////////////////////////////////////////////
+    public class EmailNotificationService
+    {
+        private string emailMaster = "nicolay@correo.com";
+        public enum EmailNotificationType { to_Clients = 1, to_Admins = 2 };
+
+        public void notifyClients(List<string> clients, EmailNotificationType template)
+        {
+            Console.WriteLine($"Sending emails to {template}");
+            clients.ForEach(email => Console.WriteLine(email));
+        }
+    }
+
+    //////////////////////////////////////////////////////
     public class CartService
     {
         private List<Product> itemsInCart = new List<Product>();
 
-        public void AddToCart(Product product)
+        public void addToCart(Product product)
         {
-            Console.WriteLine($"Adding to cart {product.Id}, {product.Name}");
+            Console.WriteLine($"Adding product to cart '{product.Name}'");
         }
     }
-    //////////////////////////////////////////
+    //////////////////////////////////////////////////////
 
-    //////////////////////////////////////////
-    public class EmailNotificationService
-    {
-
-        private string emailMaster = "nicolay@correo.com";
-        public enum EmailTemplate { toAdmins = 1, toClients = 2 };
-
-        public void sendEmail(List<string> emails, EmailTemplate template)
-        {
-            if (template == EmailTemplate.toAdmins) Console.WriteLine($"Sending email to admins {EmailTemplate.toAdmins}");
-            if (template == EmailTemplate.toClients) Console.WriteLine($"Sending email to clients {EmailTemplate.toClients}");
-        }
-    }
-    //////////////////////////////////////////
-
-    //////////////////////////////////////////
+    //////////////////////////////////////////////////////
     public class ProductBloc
     {
         private ProductService productService;
-        private EmailNotificationService emailNotification;
+        private EmailNotificationService emailNotificationsService;
 
-        public ProductBloc(ProductService productService, EmailNotificationService emailNotification)
+        public ProductBloc(ProductService productService, EmailNotificationService emailNotificationsService)
         {
             this.productService = productService;
-            this.emailNotification = emailNotification;
+            this.emailNotificationsService = emailNotificationsService;
         }
 
-        public void loadProduct(int id)
+        public void LoadProduct(int id)
         {
             productService.getProduct(id);
         }
@@ -83,11 +78,9 @@ namespace _01_SRP.Applying_SRP
         {
             productService.saveProduct(product);
         }
-
-        public void notifyClients()
+        public void emailNotification()
         {
-            emailNotification.sendEmail(new List<string> { "stella@correo.com", "linda@correo.com" }, EmailTemplate.toAdmins);
+            emailNotificationsService.notifyClients(new List<string> { "stella@correo.com", "linda@correo.com" }, EmailNotificationService.EmailNotificationType.to_Clients);
         }
     }
-    //////////////////////////////////////////
 }

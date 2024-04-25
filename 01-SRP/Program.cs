@@ -17,10 +17,10 @@ using _01_SRP.Applying_SRP;
 // Instanciando Applying-SRP
 var productService = new ProductService();
 var emailNotificationService = new EmailNotificationService();
-var productBloc = new ProductBloc(productService, emailNotificationService);
-productBloc.loadProduct(1);
-productBloc.notifyClients();
-productBloc.saveProduct(new Product { Id = 3, Name = "LG TV" });
+var myProduct = new ProductBloc(productService, emailNotificationService);
+myProduct.LoadProduct(2);
+myProduct.saveProduct(new Product { Id = 1, Name = "LG TV" });
+myProduct.emailNotification();
 
 var cartService = new CartService();
-cartService.AddToCart(new Product { Id = 3, Name = "LG TV" });
+cartService.addToCart(new Product { Id = 5, Name = "Challenger Monitor" });
