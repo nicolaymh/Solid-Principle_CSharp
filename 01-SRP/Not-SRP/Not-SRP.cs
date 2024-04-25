@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _01_SRP.Not_SRP
 {
+
     // Defining the Product interface.
     public interface IProduct
     {
@@ -19,7 +20,6 @@ namespace _01_SRP.Not_SRP
         public int Id { get; set; }
         public string Name { get; set; }
     }
-
 
 
     // Class to control the view displayed to the user.
@@ -47,3 +47,4 @@ namespace _01_SRP.Not_SRP
 
     }
 }
+
