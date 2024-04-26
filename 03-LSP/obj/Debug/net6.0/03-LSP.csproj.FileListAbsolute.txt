@@ -1,0 +1,15 @@
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\bin\Debug\net6.0\03-LSP.exe
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\bin\Debug\net6.0\03-LSP.deps.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\bin\Debug\net6.0\03-LSP.runtimeconfig.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\bin\Debug\net6.0\03-LSP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\bin\Debug\net6.0\03-LSP.pdb
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\obj\Debug\net6.0\03-LSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\obj\Debug\net6.0\03-LSP.AssemblyInfoInputs.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\obj\Debug\net6.0\03-LSP.AssemblyInfo.cs
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\obj\Debug\net6.0\03-LSP.csproj.CoreCompileInputs.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\obj\Debug\net6.0\03-LSP.sourcelink.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\obj\Debug\net6.0\03-LSP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\obj\Debug\net6.0\refint\03-LSP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\obj\Debug\net6.0\03-LSP.pdb
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\obj\Debug\net6.0\03-LSP.genruntimeconfig.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\03-LSP\obj\Debug\net6.0\ref\03-LSP.dll
