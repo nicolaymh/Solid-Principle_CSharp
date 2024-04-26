@@ -39,5 +39,5 @@ foreach (var car in list)
 }
 
 /*
- * este código no viola el Principio de Sustitución de Liskov porque cada clase derivada puede ser sustituida por cualquier otra que implemente IVehicle sin que se afecte la ejecución del programa. El método GetNumberOfSeats() se comporta de manera coherente en todas las implementaciones, cumpliendo con el contrato establecido por la interfaz IVehicle. Esto facilita la escalabilidad y la mantenibilidad del código al adherirse a buenos principios de diseño orientado a objetos.
+ * este código no viola el Principio de Sustitución de Liskov (LSP) porque cada clase derivada puede ser sustituida por cualquier otra que implemente IVehicle sin que se afecte la ejecución del programa. El método GetNumberOfSeats() se comporta de manera coherente en todas las implementaciones, cumpliendo con el contrato establecido por la interfaz IVehicle. Esto facilita la escalabilidad y la mantenibilidad del código al adherirse a buenos principios de diseño orientado a objetos.
 */
