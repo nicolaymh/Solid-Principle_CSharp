@@ -44,3 +44,10 @@ namespace _01_SRP.Not_SRP
     }
 }
 
+// Violacion principio SRP de responsabilidad unica:
+// La clase ProductBloc actualmente maneja varias responsabilidades que no están estrechamente relacionadas,
+// lo que viola el Principio de Responsabilidad Única (SRP). Esta violación hace que la clase sea más difícil de
+// mantener y de testear, ya que cambios en una responsabilidad (como la lógica de notificación) podrían
+// requerir cambios en una clase que también maneja otras responsabilidades completamente distintas (como la
+// gestión de productos o eventos del carrito). Idealmente, cada responsabilidad debería estar encapsulada
+// en su propia clase para mejorar la cohesión y facilitar la extensión y el mantenimiento del código.
