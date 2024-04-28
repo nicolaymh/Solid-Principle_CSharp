@@ -11,7 +11,7 @@ namespace _04_ISP.Not_ISP
     // Esto viola el principio de segregación de interfaz (ISP) que sugiere que las 
     // interfaces deben ser específicas en lugar de generales, y que las clases no deben 
     // ser forzadas a implementar interfaces que no utilizan en su totalidad.
-    public interface Bird
+    public interface IBird
     {
         void Fly();
         void Eat();
@@ -21,7 +21,7 @@ namespace _04_ISP.Not_ISP
 
     // Clase Tucan es forzada a implementar el método Swim, el cual no es relevante para un tucán.
     // Esto resulta en la necesidad de lanzar una NotImplementedException, indicando un diseño inadecuado.
-    public class Tucan : Bird
+    public class Tucan : IBird
     {
         public void Fly() => Console.WriteLine("Fly");
         public void Eat() => Console.WriteLine("Eat");
@@ -30,7 +30,7 @@ namespace _04_ISP.Not_ISP
     }
 
     // Clase Hummingbird también es forzada a implementar Run y Swim, que no son capacidades típicas de los colibríes.
-    public class Hummingbird : Bird
+    public class Hummingbird : IBird
     {
         public void Fly() => Console.WriteLine("Fly");
         public void Eat() => Console.WriteLine("Eat");
@@ -40,7 +40,7 @@ namespace _04_ISP.Not_ISP
 
     // Clase Ostrich no puede volar, pero debe implementar Fly. También muestra cómo Ostrich es capaz de nadar,
     // un comportamiento no común en todas las aves, que justifica una interfaz separada.
-    public class Ostrich : Bird
+    public class Ostrich : IBird
     {
         public void Fly() => throw new NotImplementedException("Ostriches cannot fly.");
         public void Eat() => Console.WriteLine("Eat");
@@ -50,7 +50,7 @@ namespace _04_ISP.Not_ISP
 
     // Clase Penguin es otro ejemplo de cómo la necesidad de implementar Fly es irrelevante,
     // y cómo la interfaz general puede llevar a implementaciones inadecuadas.
-    public class Penguin : Bird
+    public class Penguin : IBird
     {
         public void Fly() => throw new NotImplementedException("Penguins cannot fly.");
         public void Eat() => Console.WriteLine("Eat");
