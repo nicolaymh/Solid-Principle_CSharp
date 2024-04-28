@@ -1,0 +1,15 @@
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\bin\Debug\net6.0\04-ISP.exe
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\bin\Debug\net6.0\04-ISP.deps.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\bin\Debug\net6.0\04-ISP.runtimeconfig.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\bin\Debug\net6.0\04-ISP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\bin\Debug\net6.0\04-ISP.pdb
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\obj\Debug\net6.0\04-ISP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\obj\Debug\net6.0\04-ISP.AssemblyInfoInputs.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\obj\Debug\net6.0\04-ISP.AssemblyInfo.cs
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\obj\Debug\net6.0\04-ISP.csproj.CoreCompileInputs.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\obj\Debug\net6.0\04-ISP.sourcelink.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\obj\Debug\net6.0\04-ISP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\obj\Debug\net6.0\refint\04-ISP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\obj\Debug\net6.0\04-ISP.pdb
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\obj\Debug\net6.0\04-ISP.genruntimeconfig.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\04-ISP\obj\Debug\net6.0\ref\04-ISP.dll
