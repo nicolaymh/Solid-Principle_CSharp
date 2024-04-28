@@ -39,14 +39,6 @@ ISP aboga por crear interfaces más específicas que no obliguen a las implement
 Este principio enfatiza la importancia de la flexibilidad del código al invertir las dependencias convencionales; los módulos de alto nivel no deben depender de módulos de bajo nivel, sino de abstracciones. DIP es fundamental para la arquitectura de software, permitiendo que los cambios en las implementaciones concretas no afecten a los módulos que las utilizan.
 - **Ejemplo:** Ver `05-DIP`
 
-## 🚀 Cómo Contribuir
-
-Si deseas contribuir al proyecto:
-1. Haz un fork del repositorio.
-2. Crea una nueva rama para tus cambios.
-3. Añade tus modificaciones.
-4. Envía un pull request.
-
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
