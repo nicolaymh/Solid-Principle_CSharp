@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("03-LSP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("05-DIP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+997d499a1278fc7d8f6bc7a75a65d4ed3356b52a")]
-[assembly: System.Reflection.AssemblyProductAttribute("03-LSP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("03-LSP")]
+[assembly: System.Reflection.AssemblyProductAttribute("05-DIP")]
+[assembly: System.Reflection.AssemblyTitleAttribute("05-DIP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

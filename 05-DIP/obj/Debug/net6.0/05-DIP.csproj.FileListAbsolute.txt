@@ -1,0 +1,15 @@
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\bin\Debug\net6.0\05-DIP.exe
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\bin\Debug\net6.0\05-DIP.deps.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\bin\Debug\net6.0\05-DIP.runtimeconfig.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\bin\Debug\net6.0\05-DIP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\bin\Debug\net6.0\05-DIP.pdb
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\obj\Debug\net6.0\05-DIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\obj\Debug\net6.0\05-DIP.AssemblyInfoInputs.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\obj\Debug\net6.0\05-DIP.AssemblyInfo.cs
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\obj\Debug\net6.0\05-DIP.csproj.CoreCompileInputs.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\obj\Debug\net6.0\05-DIP.sourcelink.json
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\obj\Debug\net6.0\05-DIP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\obj\Debug\net6.0\refint\05-DIP.dll
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\obj\Debug\net6.0\05-DIP.pdb
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\obj\Debug\net6.0\05-DIP.genruntimeconfig.cache
+D:\Self-Learning\FullStack\Avanazado\.Net\Solid_Principle_C#\05-DIP\obj\Debug\net6.0\ref\05-DIP.dll
