@@ -7,6 +7,12 @@ using System.Threading.Tasks;
 
 namespace _05_DIP.Applying_DIP
 {
+
+    /// <summary>
+    /// Servicio de alto nivel para manejar la obtención de posts.
+    /// Depende de la abstracción IPostProvider para recuperar posts,
+    /// permitiendo la flexibilidad de cambiar las fuentes de datos sin modificar la lógica interna.
+    /// </summary>
     public class PostService
     {
         private List<IPost> _posts = new List<IPost>();

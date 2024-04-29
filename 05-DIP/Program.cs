@@ -16,12 +16,20 @@ using _05_DIP.Applying_DIP;
 
 
 // Instanciando Applying-DIP:
+
+/// <summary>
+/// Punto de entrada principal para la aplicación de consola.
+/// Este ejemplo ilustra la implementación del Principio de Inversión de Dependencias (DIP),
+/// que permite una fácil sustitución entre diferentes fuentes de datos, como WebApiPostService y LocalDataBaseService.
+/// Gracias a la inyección de dependencias, PostService puede operar con cualquier implementación de IPostProvider,
+/// demostrando una alta flexibilidad y desacoplamiento de componentes. Esto facilita el mantenimiento y la escalabilidad del código.
+/// </summary>
 var localDataBaseService = new LocalDataBaseService();
 
 var client = new HttpClient();
 var webApiPostService = new WebApiPostservice(client);
 
-var postService = new PostService(localDataBaseService);
+var postService = new PostService(webApiPostService);
 var posts = await postService.GetPosts();
 foreach (var post in posts)
 {
